@@ -6,7 +6,7 @@ The app allow to:
 - Read a Task
 - Execute a Task
 
-This code was created for demonstration purpose when creating [this article in Workflows Guru](workflows.guru/resources/hexagonal-architecture-implemented-in-python).
+This code was created for demonstration purpose when creating [this article in Workflows Guru](https://www.workflows.guru/resources/hexagonal-architecture-implemented-in-python).
 
 ## Adapters
 
