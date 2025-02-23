@@ -1,6 +1,7 @@
 from tscheduler.adapters.local_storage import LocalStorage
 from tscheduler.domain.core import TaskController
 
+
 def test_create_task():
 
     # Here we have already a local storage, when we use other adapters we can just test our application using this adapter
@@ -10,4 +11,3 @@ def test_create_task():
     )
 
     assert result.get("name") == "my_task"
-
